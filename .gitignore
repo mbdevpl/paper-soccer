@@ -1,4 +1,3 @@
-# files that should be ignored by git
-
-# Windows
+*.suo
+*.v11.suo
 Thumbs.db
