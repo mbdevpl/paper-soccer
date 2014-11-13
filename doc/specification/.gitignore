@@ -1,0 +1,11 @@
+UGS-bysiekm,peryts,wisniewskia,witanm.pdf
+
+# temporary files
+/tmp
+*.synctex.gz
+*.synctex.gz(busy)
+*.aux
+*.toc
+*.lof
+*.log
+*.out
