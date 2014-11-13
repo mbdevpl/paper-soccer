@@ -1,0 +1,10 @@
+*.suo
+*.v11.suo
+*.csproj.user
+*.cache
+*.vsp
+/*/obj
+/*/bin
+*.vshost.exe
+*.vshost.exe.config
+*.vshost.exe.manifest
