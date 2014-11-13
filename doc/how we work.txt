@@ -1,0 +1,24 @@
+
+
+1. whenever you do something important, add annotation in folder /work_timeline/ in file named like your login
+   important is for example when you:
+	complete a task,
+	create new project, 
+	add new feature that is visible from the point of view of other projects
+	make a modification that causes something to work,
+	make a modification that causes something to no longer work,
+	other stuff you consider important
+   
+2. all specification from Kaczmarski is in folder /requirements/
+
+3. work shall be divided as follows:
+	a) bysiekm: game player & master (AI part)
+	b) peryts: game player & master (network part)
+	c) wisniewskia: protocol classes implementation
+	d) witanm: game server
+
+4. commit as frequently as you can
+
+5. update your repo before you start your work
+
+6. do not forget to immidately resolve any conflicts that appear
